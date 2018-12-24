@@ -1,0 +1,37 @@
+html{
+	font-size: 16px;
+	font-family: Verdana, sanserif;
+}
+body{
+	font-size: 1rem
+}
+pre{
+	font-size: 1.2rem;
+	border: 1px solid black;
+}
+code{
+	color: red;
+}
+.container{
+	max-width: 900px;
+	margin: 0 auto;
+}
+.text-warning{
+	color: #8a6d3b;
+}
+.text-success{
+	color: #3c763d;
+}
+.text-primary{
+	color: #000080;
+}
+blockquote{
+	padding: 10px 20px;
+	background-color: #ffffcc;
+	border-left: 4px solid #ffeb3b;
+}
+.quote{
+	padding-left: 10px;
+	border: 1px solid black;
+	margin-top: 3px;
+}
