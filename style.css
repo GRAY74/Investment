@@ -3,7 +3,7 @@ html{
 	font-family: Verdana, sanserif;
 }
 body{
-	font-size: 1rem
+	font-size: 1.2rem
 }
 pre{
 	font-size: 1.2rem;
@@ -34,4 +34,7 @@ blockquote{
 	padding-left: 10px;
 	border: 1px solid black;
 	margin-top: 3px;
+}
+footer{
+	height: 150px;
 }
