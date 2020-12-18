@@ -35,6 +35,6 @@ blockquote{
 	border: 1px solid black;
 	margin-top: 3px;
 }
-footer{
-	height: 150px;
+footer, header{
+	height: 50px;
 }
