@@ -13,7 +13,7 @@ code{
 	color: red;
 }
 .container{
-	max-width: 900px;
+	max-width: 1200px;
 	margin: 0 auto;
 }
 .text-warning{
@@ -29,6 +29,7 @@ blockquote{
 	padding: 10px 20px;
 	background-color: #ffffcc;
 	border-left: 4px solid #ffeb3b;
+	margin: 5px 0;
 }
 .quote{
 	padding-left: 10px;
